@@ -1,0 +1,5 @@
+APScheduler==2.0.3
+distribute==0.6.31
+feedparser==5.1.2
+praw==1.0.16
+six==1.2.0
